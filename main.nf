@@ -1,6 +1,6 @@
 #!/usr/bin/env nextflow
 params.name             = "RNA-seq"
-params.email            = "michael.smallegan@colorado.edu"
+params.email            = "kmrphy10@illinois.edu"
 params.reads            = "/data/fastq/*{*_R1,*_R2}.fastq.gz"
 
 
